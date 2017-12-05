@@ -1,3 +1,11 @@
+data/raw_sim_data
+data/processed_sim_data
+data/sample_evaluation_data
+data/runs
+data/train
+data/validation
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
